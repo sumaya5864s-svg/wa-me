@@ -23,3 +23,9 @@
     "async-mutex":"0.4.1"
    }
 }
+{
+  "devDependencies": {
+    "eslint": "^9.31.0",
+    "typescript": "^5.5.0"
+  }
+}
